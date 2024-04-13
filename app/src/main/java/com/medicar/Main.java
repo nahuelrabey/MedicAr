@@ -1,6 +1,6 @@
 package com.medicar;
 
-import com.medicar.Medico.Medico;
+// import com.medicar.Medico.Medico;
 import com.medicar.Medico.MedicoSqlite;
 import com.medicar.Paciente.PacienteSqlite;
 

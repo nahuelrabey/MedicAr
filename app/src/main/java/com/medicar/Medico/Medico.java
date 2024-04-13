@@ -16,4 +16,7 @@ public class Medico {
         MedicoSqlite.insert_into_db(this.id, this.name, this.matricula);
     }
 
+    public void create_table_db(){
+        MedicoSqlite.create_table_db();
+    }
 }
